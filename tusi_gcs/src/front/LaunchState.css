@@ -1,0 +1,23 @@
+.Launch_State{
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.NextStageBtnDiv{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.NextStageBtn{
+    background-color: #2d5b87;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    margin-top: 20px;
+    width: 120px;
+    height: 40px;
+}
+
+.NextStageBtn:active{
+    background-color: #29557e;
+}

@@ -1,0 +1,28 @@
+.Rocket_State{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 100%;
+}
+
+.RocketDisplay{
+    text-align: center;
+    position: relative;
+    height: 100%;
+}
+
+.Line {
+    border-left: 1px solid rgb(255, 255, 255);
+    position: absolute;
+    height: 70%; /* 변경된 부분 */
+    left: 50%;
+    top: 10%; /* 상단 여백 10% 유지 */
+    z-index: 1;
+}
+
+.image{
+    z-index: 2;
+    position: relative;
+    height: 40%;
+    top: 20%;
+}

@@ -1,0 +1,17 @@
+.InjectionBtn{
+    background-color: #872D2D;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    margin-top: 20px;
+    width: 120px;
+    height: 40px;
+}
+
+.InjectionBtn:active{
+    background-color: #752727;
+}
+
+.InjectionBtnDiv{
+    margin-top: 20px;
+}

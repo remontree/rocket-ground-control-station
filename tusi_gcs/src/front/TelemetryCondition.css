@@ -1,0 +1,17 @@
+.ConditionTable{
+    width: 100%;
+}
+
+.CodtionTableDiv{
+    margin-top: 10px;
+}
+
+.TableHeader{
+    background-color: #22252B;
+    color: #587DC4;
+}
+
+table, td, th{
+    border : 1px solid #22252B;
+    border-collapse : collapse;
+}

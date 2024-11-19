@@ -1,0 +1,42 @@
+.App {
+  color: white;
+}
+
+.Banner{
+  font-family: Kokoro;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 40px 20px 40px 20px;
+}
+
+.contents{
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: 1fr 1fr 3fr;
+  margin-right: 20px;
+}
+
+.contents1{
+  display: grid;
+  grid-template-rows: 2fr 2fr 4fr 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.contents2{
+  display: grid;
+  grid-template-rows: 7fr 2fr 1fr;
+  grid-gap: 10px;
+}
+
+.contents3{
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-gap: 10px;
+  margin-right: 20px;
+}
+
+.contents3_1{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+}
